@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@docsly/base': ^0.1.0
+  '@docsly/base': latest
   '@types/node': 18.11.10
   next: ^13.0.6
   nextra: latest
