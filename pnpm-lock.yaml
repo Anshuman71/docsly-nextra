@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@docsly/base': ^0.1.3
+  '@docsly/react': ^0.0.1
   '@types/node': 18.11.10
   next: ^13.0.6
   nextra: latest
@@ -11,7 +11,7 @@ specifiers:
   typescript: ^4.9.3
 
 dependencies:
-  '@docsly/base': 0.1.4_biqbaboplfbrettd7655fr4n2y
+  '@docsly/react': 0.0.1_biqbaboplfbrettd7655fr4n2y
   next: 13.0.6_biqbaboplfbrettd7655fr4n2y
   nextra: 2.2.19_6jx7hpii6hgsrmhxgqrmo3277u
   nextra-theme-docs: 2.2.19_xjieybtjyjwyx5puqtvpxmncqm
@@ -73,8 +73,8 @@ packages:
       to-fast-properties: 2.0.0
     dev: false
 
-  /@docsly/base/0.1.4_biqbaboplfbrettd7655fr4n2y:
-    resolution: {integrity: sha512-Uz0hpyeVExZjeaQE9P9k/7L4kAMBR7/jQrwwz3tFeOheb2rsYgebizv0Zq7zYEuSWjx5AGCizMahtlyYs8IWdA==}
+  /@docsly/react/0.0.1_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-lbS5B3s+/3vIoNGsMnWnw98GhtsB5EmprvpxB00XVF5D19gLe0lnoiEVJg1MeE6Z2+2xfOTHKPpSIZlOxYU6wA==}
     peerDependencies:
       '@types/react': '>=17'
       '@types/react-dom': '>=17'
