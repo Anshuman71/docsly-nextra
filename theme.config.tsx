@@ -3,17 +3,15 @@ import { DocsThemeConfig } from "nextra-theme-docs";
 import DocslyClient from "./components/DocslyClient";
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
-  project: {
-    link: "https://github.com/shuding/nextra-docs-template",
-  },
-  chat: {
-    link: "https://discord.com",
-  },
-  docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
+  logo: <span>docsly</span>,
   footer: {
-    text: "Nextra Docs Template",
-    component: <DocslyClient />,
+    text: "Docsly Nextra Template",
+    component: () => (
+      <>
+        {/* Your footer code */}
+        <DocslyClient />
+      </>
+    ),
   },
 };
 
