@@ -6,7 +6,7 @@ export default function DocslyClient() {
   const pathname = usePathname();
   return (
     <Docsly
-      publicId="public_vvIoQlAhwLyCIj2VO8IVUA1Ka210rTKYM8rP"
+      publicId="public_DwriVUZS44cF6LJvVYqavLHUBs0YyIaXLVBl7BeNAuEjoK9v2DRevMsxqRUgrExh"
       pathname={pathname}
     />
   );
