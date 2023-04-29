@@ -6,7 +6,7 @@ This is a template for creating documentation with [Nextra](https://nextra.site)
 
 ## Documentation
 
-Collect interactive feedback on your documentation using [docsly](https://docsly.dev).
+Collect meaningful feedback on your documentation using [docsly](https://www.docsly.dev).
 
 ## Local Development
 
